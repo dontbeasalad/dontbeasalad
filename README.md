@@ -1,8 +1,11 @@
+Hello World
+
 <table width="100%"> 
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/a0wfd87oxfueohksgkzobwzeq?si=4aba98935022416d)
+&nbsp; <br> (https://open.spotify.com/user/a0wfd87oxfueohksgkzobwzeq?si=4aba98935022416d)
+
 
   </td>
   <td width="50%">
